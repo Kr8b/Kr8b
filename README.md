@@ -1,6 +1,6 @@
 - 👋 Hey, my name is José Antonio and I'm a brazilian student of Software Engeneering. I'm 19 and I'm  starting in this world of programming.
 - 👀 I’m interested in learn so much as I can of programming, specially of Backend.
-- 🌱 I’m currently learning C in college, and interested in swift to Java soon.
+- 🌱 I’m currently learning C in college, and interested in switch to Java soon.
 - 📫 You can reach me by my telegram (t.me/jant12) or my email (andradejoseantonio01@gmail.com)
 
 <!---
