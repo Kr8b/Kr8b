@@ -1,3 +1,2 @@
-- 👋 My name is José Antonio and I'm a brazilian student of Software Engeneering.
-- 🌱 I’m learning Java and starting now on Front end.
-- 📫 You can reach me by my telegram (t.me/jant12) or my email (andradejoseantonio01@gmail.com)
+- Bem vindo ao meu perfil! Meu nome é José Antonio, sou programador backend e iniciando os estudos de frontend.
+- Você pode entrar em contato por telegram (https://t.me/jant12) ou pelo email (andradejoseantonio01@gmail.com).
