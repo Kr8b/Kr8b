@@ -1,2 +1,2 @@
-- Bem vindo ao meu perfil! Meu nome é José Antonio, sou programador backend e iniciando os estudos de frontend.
-- Você pode entrar em contato por telegram (https://t.me/jant12) ou pelo email (andradejoseantonio01@gmail.com).
+- Bem vindo ao meu perfil! Meu nome é José Antonio e sou programador Backend, trabalho atualmente com Java e com Python, focados no desenvolvimento Web!
+- Você pode entrar em contato pelo telegram (https://t.me/jant12) ou pelo email (andradejoseantonio01@gmail.com).
