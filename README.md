@@ -1,2 +1,2 @@
-- Bem vindo ao meu perfil! Meu nome é José Antonio e sou programador Backend, trabalho atualmente com Java e com Python, focados no desenvolvimento Web!
+- Fala ae! Meu nome é José Antonio e sou programador Backend, já atuei em projetos com Java, JavaScript e Python.
 - Você pode entrar em contato pelo telegram (https://t.me/jant12) ou pelo email (andradejoseantonio01@gmail.com).
